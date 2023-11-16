@@ -172,7 +172,7 @@
     <p class="mt-5 mb-3 text-body-secondary">&copy; <?= date("Y")?></p>
   </form>
 </main>
-<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
